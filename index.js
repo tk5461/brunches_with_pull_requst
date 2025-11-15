@@ -9,8 +9,3 @@ const b = ()=>{
 const t = ()=>{
     alert("t")
 }
-
-
-const j = ()=>{
-    alert("j")
-}

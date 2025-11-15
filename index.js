@@ -6,6 +6,20 @@ const b = ()=>{
     alert("b")
 }
 
+const c = ()=>{
+    alert("c")
+}
+
+
+const d = ()=>{
+    alert("d")
+}
+
+
+
+const v = ()=>{
+    alert("v")
+}
 const t = ()=>{
     alert("t")
 }

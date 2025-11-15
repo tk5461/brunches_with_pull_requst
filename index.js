@@ -20,3 +20,6 @@ const d = ()=>{
 const v = ()=>{
     alert("v")
 }
+const t = ()=>{
+    alert("t")
+}
